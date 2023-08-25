@@ -28,7 +28,7 @@ If I find you're abusing any privileges you are given here, you will be given th
 
 ## Leaving the Community
 Some of you make a point about leaving the community if you get into an argument, or if you fall out with a member despite being friends with more than just the affected individual. If that happens:
-- If you leave, you get one more chance to join.
+- If you leave, you get one chance to rejoin.
   - Your invite link will be delivered approximately 7 days after we receive notice you have left.
   - Notice can be an administrator finding out you are no longer there, should they care to check, or it can be from a direct message to an administrator from yourself or another community member.
   - The invite link will have exactly one use and will be valid for 7 days.
