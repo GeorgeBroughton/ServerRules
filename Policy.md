@@ -36,7 +36,7 @@ Some of you make a point about leaving the community if you get into an argument
 - If you either miss the window for the invite link to work, or you for whatever reason decide to leave again.
   - I will not not spend my time setting your permissions up every time you join, and therefore:
     - You will not be issued a new link.
+    - Your ban will become permanent.
     - You will not return.
 
 If you need a break from the people here, make it known to me and I may take measures to shadowban the both of you for some predefined amount of time or you can make efforts to not involve yourself in the community for some time until you feel comfortable with returning. "needing a break" is not an acceptable use of leaving the server. It wastes admin time.
-
