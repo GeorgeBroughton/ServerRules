@@ -6,7 +6,7 @@ Breaching any of these rules will result in a conversation, a timeout, and may r
 Community guidelines, rules and policy are subject to change at any time.
 
 ## 0. Reporting
-You have a voice. Use it. If you are uncomfortable with people breaking the below rules or social guidelines, then tell them.
+You have a voice. Use it. If you are uncomfortable with people breaking the below rules or social guidelines, then tell them.  
 If there are any problems between community members regarding these rules, and they are not respecting your boundaries then send me a direct message, or contact me in a voice channel if I'm online.
 
 ## 1. Friendly Fire Will Not Be Tolerated
