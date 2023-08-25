@@ -24,7 +24,7 @@ If there are any problems between community members regarding these rules, and t
 ## 2. NSFW Content
 Keep Not Safe For Work content in the designated NSFW channels.
  - If it contains nudity of any kind, it goes in NSFW.
- - This includes historical artwork, sculptures and photography.
+ - This includes, but is not limited to, historical artwork, sculptures and photography.
  - We've got a NSFW memes channel use it for NSFW memes only.
  - Do not post pornography.
 
