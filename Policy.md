@@ -16,8 +16,8 @@ The problems with it are:
 You won't be given permissions to all channels by default.
  - This is to minimise people getting disturbed while actively working on something, and to maintain some level of privacy for specific people on the server if you're a newcomer.
  - If you need permissions to a channel, then ask me.
- - Please just be aware that if you don't play a game a channel is dedicated for, you likely won't be getting permissions.
- - Also, if you're disturbing people in a game who need as much silence as possible, you'll be moved to another channel, timed out and your permissions will be removed. Which option I pick will be determined by how persistent you are at doing this.
+ - Please just be aware that if you don't do an activity a channel is dedicated for, you likely won't be getting permissions.
+ - Also, if you're disturbing people in a n activity who need as much silence as possible, you'll be moved to another channel, timed out and your permissions will be removed. Which option I pick will be determined by how persistent you are at doing this.
 
 ## Permissions Are Not Rights
 - You are given mute and deafen permissions so if someone gets into a conversation with someone in their household, or they've got an excessive amount of noise coming from their mic while they're away from their keyboard and isn't taking part in the discussion, you can ensure that noise isn't disrupting you and others in the channel while you chat by utilising these permissions.
