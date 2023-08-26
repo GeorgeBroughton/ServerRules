@@ -53,3 +53,9 @@ You're welcome to consume what you like, and even discuss your experiences consu
 - Do not encourage others to partake in the consumption of them.
 
 I do not recommend taking them, nor may I be comfortable with you doing so, however I won't stop you.
+
+## 7. Use of Alternate Accounts & Ban Evading
+- Do not create a new/alternate account to access the community.
+- Do not use another user's account to access the community.
+
+Doing so risks both the person who's account you're using, and your own from being permanently banned.
