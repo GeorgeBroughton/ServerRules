@@ -17,7 +17,7 @@ If there are any problems between community members regarding these rules, and t
  - Don't insult people.
  - Don't construe others as being stupid.
    - This means don't call them stupid, and:
-   - Don't phrase your speech in a way that conveys a lack of understanding about another person's speech or actions in joke format. It's rude, and it also shows your own ignorance of the actual underlying mechanisms behind their speech or actions. In short, it shows you don't care about whatever they are discussing, and you should decline the conversation in a more polite manner if that is the case.
+   - Don't phrase your speech in a way that conveys a lack of understanding about another person's speech or actions in joke format. It's rude, and it also shows your own ignorance of the actual underlying mechanisms behind their speech or actions. In short, it shows you don't care about whatever they are discussing, and you should decline the conversation in a more polite manner if you aren't interested in hearing it.
  - If you feel the need to do any of the above, [fall back on Reflective Listening techniques.](https://www.youtube.com/watch?v=tIATzLf-y04)
  - If people are comfortable with any of the rules in this section being broken, then it may be allowed. However if those same people who were originally comfortable with it, are no longer comfortable with it, stop immediately.
 
