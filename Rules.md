@@ -58,4 +58,4 @@ I do not recommend taking them, nor may I be comfortable with you doing so, howe
 - Do not create a new/alternate account to access the community.
 - Do not use another user's account to access the community.
 
-Doing so risks both the person who's account you're using, and your own from being permanently banned.
+Doing so risks both the person whose account you're using, and your own from being permanently banned.
