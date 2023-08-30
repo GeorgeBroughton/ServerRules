@@ -39,4 +39,4 @@ Some of you make a point about leaving the community if you get into an argument
     - Your ban will become permanent.
     - You will not return.
 
-If you need a break from the people here, make it known to me and I may take measures to shadowban the both of you for some predefined amount of time or you can make efforts to not involve yourself in the community for some time until you feel comfortable with returning. "needing a break" is not an acceptable use of leaving the server. It wastes admin time.
+If you need a break from the people here, make it known to me and I may take measures to shadowban the both of you for some predefined amount of time or you can make efforts to not involve yourself in the community for some time until you feel comfortable with returning. "needing a break" is not an acceptable use of leaving the server. It wastes admin time and doing it excessively could be considered an act of emotional manipulation.
