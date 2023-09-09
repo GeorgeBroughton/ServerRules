@@ -39,4 +39,30 @@ Some of you make a point about leaving the community if you get into an argument
     - Your ban will become permanent.
     - You will not return.
 
-If you need a break from the people here, make it known to me and I may take measures to shadowban the both of you for some predefined amount of time or you can make efforts to not involve yourself in the community for some time until you feel comfortable with returning. "needing a break" is not an acceptable use of leaving the server. It wastes admin time and doing it excessively could be considered an act of emotional manipulation.
+If you need a break from the people here, make it known to an admin and we may take measures to shadowban the both of you for some predefined amount of time, or you can make efforts to not involve yourself in the community for some time until you feel comfortable with returning. "needing a break" is not an acceptable use of leaving the server. It wastes admin time and doing it excessively could be considered an act of emotional manipulation.
+
+## Bans
+Bans will be handled by placing a thread in the info channel and listing out the violations. Everyone will be able to see it. In some cases, you will not be able to respond.  
+### Temporary Bans
+If a user is temporarily banned, you have the option to dispute it, but only if it was in a text channel.  
+If this happened in a voice channel, only the people who were there at the time of the incident will be given permission to dispute anything.  
+
+Anything you do say may be selectively ignored. Reasons for this can include, but are not limited to:
+- Suspected manipulation
+  - If you bring up information that wasn't available at the time of the offence.
+  - If you mention things that don't have any relevence as to whether or not an offence took place.
+    - For example: If you mention how they have turned their life around since the ban. Since all you're doing there is making it look like it's in their best interest to not be here.
+  - Triangulation
+    - This is where a 3rd party relays messages back and forth between someone in this community and the banned user.
+
+### Permanent Bans
+If you are to be permanently banned from this community, within 168 hours your account will be unpersoned.
+
+This means every record of your existence will be removed from the community. Be that, where applicable:
+- Messages from other people mentioning you.
+- Messages, Images, Videos or Links from you.
+- Channels, Threads, Emoji or Stickers created by you.
+- Events created or attended by you.
+- Other members you invited to the community will also be removed unless marked otherwise by an administrator.
+
+Any further mention of your existence will involve message deletion and will be a timeout-able offense.

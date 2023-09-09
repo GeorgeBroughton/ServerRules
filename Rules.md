@@ -1,6 +1,6 @@
 # Rules
 This community is a dictatorship, not a democracy. You will be entirely beholden to my personal decisions. If you decide you do not like this, then leave immediately.
-Breaching any of these rules will result in a conversation, a timeout, and may result in a permanent ban.
+Breaching any of these rules will result in a conversation (where applicable), a timeout, and may result in a permanent ban.
 
 ### Changes
 Community guidelines, rules and policy are subject to change at any time.
@@ -18,7 +18,7 @@ If there are any problems between community members regarding these rules, and t
  - Don't construe others as being stupid.
    - This means don't call them stupid, and:
    - Don't phrase your speech in a way that conveys a lack of understanding about another person's speech or actions in joke format. It's rude, and it also shows your own ignorance of the actual underlying mechanisms behind their speech or actions. In short, it shows you don't care about whatever they are discussing, and you should decline the conversation in a more polite manner if you aren't interested in hearing it.
- - If you feel the need to do any of the above, [fall back on Reflective Listening techniques.](https://www.youtube.com/watch?v=tIATzLf-y04)
+ - If you feel the need to do any of the above, [fall back on Reflective Listening techniques](https://www.youtube.com/watch?v=tIATzLf-y04) at the very least.
  - If people are comfortable with any of the rules in this section being broken, then it may be allowed. However if those same people who were originally comfortable with it, are no longer comfortable with it, stop immediately.
 
 ## 2. NSFW Content
@@ -26,7 +26,13 @@ Keep Not Safe For Work content in the designated NSFW channels.
  - If it contains nudity of any kind, it goes in NSFW.
  - This includes, but is not limited to, historical artwork, sculptures and photography.
  - We've got a NSFW memes channel use it for NSFW memes only.
- - Do not post pornography.
+ - Do not post pornography. This includes, but again is not limited to:
+   - Titty jiggle videos from TikTok, Instagram, Facebook, YouTube
+   - People posting content for the purpose of sexual attention both for the sole purpose of it, or as a secondary purpose.
+     - If you're having difficulty determining this, rule of thumb is check if they have an OnlyFans before posting.
+   - Ripped content from any pornograsphy website like Red Tube, PornHub, Brazzers etc.
+
+Content found violating this rule will be deleted and you'll be sent to horny jail, or timed out where that isn't applicable.
 
 ## 3. Leaving The Community
 - If we find out that you left the community even in part for the purpose of messing with people's emotions, then you aren't worth the effort of setting you back up in this community again. You can go elsewhere and do that instead. This will also be acted upon retroactively. That means if you are found to have done this after we have let you back into the community, you will receive a permanent ban.
@@ -37,7 +43,7 @@ If you have organised an event, and are waiting for people to join in. Similarly
 - Send them a direct message instead.
 - If the platform supports this, look at their rich presence, which will show if they are partaking in the activity you wish to join.
   - If they are in the activity, then you may join the call and ask to join them.
-  - If they are not, keep it in text channels to avoid bothering people.
+  - If they are not, or where this is not known, keep it in text channels to avoid bothering people.
 
 I don't mind if you join once to find out when people intend to play a game you have arranged to play that day, the problem arises when you join, ask and leave the chat for the sole purpose of asking this *repeatedly* throughout the day.
 
@@ -59,3 +65,11 @@ I do not recommend taking them, nor may I be comfortable with you doing so, howe
 - Do not use another user's account to access the community.
 
 Doing so risks both the person whose account you're using, and your own from being permanently banned.
+
+## 8. Talking About Bans
+Don't talk about bans anywhere, other than the designated thread for the ban. Failure to do so will result in timeout and a ban of your own if you persist.
+
+In cases where multiple people begin to break this rule over an individual, the length of the ban will be extended by its original timeframe for each continued offence for both the original individual banned, and the people attempting to dispute it.
+
+### In The Ban Thread
+Don't bring up irrelevant details about a ban. See the Temporary Bans section on the policy page for more details.
